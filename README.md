@@ -1,1 +1,2 @@
-A todo list app which stores your data to firestore database and 
+A simple flutter todo list app using getx package and Firebase. 
+App stores users tasks to firebase databse and load when user reopen the app.
